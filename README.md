@@ -24,5 +24,5 @@ A simple Student Information System built using **Python** and **MySQL**, design
 1. Install MySQL Server on your system.
 2. Log in to MySQL and create the database:
    ```sql
-   CREATE DATABASE student_db;
+   CREATE DATABASE students;
 
